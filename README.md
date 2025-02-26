@@ -1,6 +1,6 @@
 # 🚀 Xyphor - The AI-Powered, Self-Learning Programming Language  
 
-![Xyphor Banner](assets/xyphor_banner.png)
+![Xyphor Banner](assets/xyphor_banner.jpg)
 
 🚀 **Xyphor is the world's first AI-powered, self-evolving programming language.**  
 It **writes, optimizes, and maintains code on its own**—designed for the future of AI-driven software.  
